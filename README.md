@@ -1,2 +1,1 @@
-# ChhirolyaTech_Backend_Dev_Intern_Candidates_Assignments
-Backend Developer Intern Assignments Submissions | Chhirolya Technologies
+# Backend Developer Intern Assignments Submissions | Chhirolya Technologies
