@@ -1,6 +1,6 @@
-# Backend Intern Candidate Assignments Project Submissions | Chhirolya Technologies
+# Backend Developer Intern Candidate Assignments Project Submissions | Chhirolya Technologies
 
-Welcome to the **Backend Project Submission Repository**! This repository is dedicated to collecting and reviewing project submissions for candidates interested in Backend Dev. role. Please follow the instructions below to ensure a smooth and organized submission process.
+Welcome to the **Backend Dev Project Submission Repository**! This repository is dedicated to collecting and reviewing project submissions for candidates interested in Backend Dev. role. Please follow the instructions below to ensure a smooth and organized submission process.
 
 ## Table of Contents
 - [Submission Guidelines](#submission-guidelines)
